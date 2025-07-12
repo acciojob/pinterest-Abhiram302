@@ -14,6 +14,7 @@ body{
 .hero div img{
 	width: 400px;
 	height: 250px;
+	object-fit: cover;
 }
 .section{
 	padding: 25px;
