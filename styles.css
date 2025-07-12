@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 10vh;
+	width: 100vh;
+	
+}
+.hero{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hero div img{
+	width: 400px;
+	height: 250px;
+}
+.section{
+	padding: 25px;
+	
+}
+.btn{
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+	padding: 5px
+}
